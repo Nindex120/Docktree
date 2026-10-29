@@ -23,7 +23,7 @@ Antes de instalar DockTree, asegúrate de cumplir con los siguientes requisitos 
 
 bash
 
-git clone https://github.com/tu-usuario/docktree.git
+git clone https://github.com/Nindex120/Docktree.git
 cd docktree
 
 Usa el código con precaución.
@@ -31,7 +31,7 @@ Usa el código con precaución.
 
 bash
 
-npm install # O el comando correspondiente a tu stack
+npm install 
 
 Usa el código con precaución.
 3. **Configura las variables de entorno:**
@@ -62,4 +62,4 @@ Las contribuciones son lo que hacen que la comunidad de código abierto sea un l
 
 ### Licencia
 
-Distribuido bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
+Distribuido bajo la Licencia AGPLv3. Consulta el archivo LICENSE para obtener más información.
